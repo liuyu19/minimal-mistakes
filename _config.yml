@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh"
-title                    : "ÁõÓî¸öÈËÍøÕ¾"
+title                    : "åˆ˜å®‡çš„ä¸ªäººç½‘ç«™"
 title_separator          : "-"
-name                     : "ÁõÓî"
+name                     : "åˆ˜å®‡"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://liuyu19.gitee.io"
 baseurl                  : # the subpath of your site, e.g. "/minimal-mistakes"
